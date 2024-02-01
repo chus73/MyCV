@@ -1,5 +1,13 @@
 # 💫 About Me:
-My name is Jesús, and I'm working as a  Data Solution Architect at Avande Spain. <br>I am very curious by nature, love science in general, and am passionate about learning and understanding how things work. Because of this, since I was a child, I have dreamed of being an engineer and being able to create elements that would help others. Computers and electronics have been a part of me since childhood. <br>Although I have worked in other fields, I have always managed to incorporate the concepts of database management systems to help optimize processes. Because let's be honest, everything in this world is data or has the potential to be data. <br>I am currently working as a Data Solution Architect specializing in Azure and have completed my Master's degree in Data Science. <br>Finally, one of my favorite phrases: "If it can't be measured, it can't be improved".
+My name is Jesús, and I'm working as a  Data Solution Architect at Avanade Spain. 
+
+<br>I am very curious by nature, love science in general, and am passionate about learning and understanding how things work. Because of this, since I was a child, I have dreamed of being an engineer and being able to create elements that would help others. Computers and electronics have been a part of me since childhood. 
+
+<br>Although I have worked in other fields, I have always managed to incorporate the concepts of database management systems to help optimize processes. Because let's be honest, everything in this world is data or has the potential to be data. 
+
+<br>I am currently working as a Data Solution Architect specializing in Azure and have completed my Master's degree in Data Science. 
+
+<br>Finally, one of my favorite phrases: "If it can't be measured, it can't be improved".
 
 
 ## 🌐 Socials:
